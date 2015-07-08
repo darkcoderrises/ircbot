@@ -1,0 +1,855 @@
+leguin.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:leguin.freenode.net 002 iiithbot :Your host is leguin.freenode.net[130.239.18.119/6667], running version ircd-seven-1.1.3
+:leguin.freenode.net 003 iiithbot :This server was created Sun Mar 15 2015 at 18:31:34 UTC
+:leguin.freenode.net 004 iiithbot leguin.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:leguin.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:leguin.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:leguin.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:leguin.freenode.net 251 iiithbot :There are 156 users and 83628 invisible on 27 servers
+:leguin.freenode.net 252 iiithbot 20 :IRC Operators online
+:leguin.freenode.net 253 iiithbot 8 :unknown connection(s)
+:leguin.freenode.net 254 iiithbot 59655 :channels formed
+:leguin.freenode.net 255 iiithbot :I have 6369 clients and 1 servers
+:leguin.freenode.net 265 iiithbot 6369 9114 :Current :Current 
+darkcoderrises:hi
+
+sendak.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:sendak.freenode.net 002 iiithbot :Your host is sendak.freenode.net[193.219.128.49/6667], running version ircd-seven-1.1.3
+:sendak.freenode.net 003 iiithbot :This server was created Sat Feb 21 2015 at 16:36:27 UTC
+:sendak.freenode.net 004 iiithbot sendak.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:sendak.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:sendak.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:sendak.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:sendak.freenode.net 251 iiithbot :There are 156 users and 83805 invisible on 27 servers
+:sendak.freenode.net 252 iiithbot 20 :IRC Operators online
+:sendak.freenode.net 253 iiithbot 7 :unknown connection(s)
+:sendak.freenode.net 254 iiithbot 59670 :channels formed
+:sendak.freenode.net 255 iiithbot :I have 5834 clients and 1 servers
+:sendak.freenode.net 265 iiithbot 5834 8825 :Current :Current 
+:barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+:barjavel.freenode.net NOTICE * :*** Checking Ident
+:barjavel.freenode.net NOTICE * :*** No Ident response
+:barjavel.freenode.net NOTICE * :*** Couldn't look up your hostname
+:barjavel.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:barjavel.freenode.net 002 iiithbot :Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.3
+:barjavel.freenode.net 003 iiithbot :This server was created Fri Oct 24 2014 at 13:59:13 UTC
+:barjavel.freenode.net 004 iiithbot barjavel.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:barjavel.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:barjavel.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:barjavel.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:barjavel.freenode.net 251 iiithbot :There are 153 users and 83255 invisible on 27 servers
+:barjavel.freenode.net 252 iiithbot 20 :IRC Operators online
+:barjavel.freenode.net 253 iiithbot 12 :unknown connection(s)
+:barjavel.freenode.net 254 iiithbot 59676 :channels formed
+:barjavel.freenode.net 255 iiithbot :I have 5118 clients and 1 servers
+:barjavel.freenode.net 265 iiithbot 5118 9559 :Current local users 5118, max 9559
+:barjavel.freenode.net 266 iiithbot 83408 105669 :Current global users 83408, max 105669
+:barjavel.freenode.net 250 iiithbot :Highest connection count: 9560 (9559 clients) (2033374 connections received)
+:barjavel.freenode.net 375 iiithbot :- barjavel.freenode.net Message of the Day - 
+:barjavel.freenode.net 372 iiithbot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+:barjavel.freenode.net 372 iiithbot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+:barjavel.freenode.net 372 iiithbot :- this server!
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+:barjavel.freenode.net 372 iiithbot :- science-fiction author, a journalist and a critic. He is
+:barjavel.freenode.net 372 iiithbot :- credited with having written the first novel to introduce 
+:barjavel.freenode.net 372 iiithbot :- the Grandfather Paradox in time travel, in his 1943 work 
+:barjavel.freenode.net 372 iiithbot :- 'Le Voyageur imprudent'.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- Welcome to freenode - supporting the free and open source
+:barjavel.freenode.net 372 iiithbot :- software communities since 1998.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- By connecting to freenode you indicate that you have read and
+:barjavel.freenode.net 372 iiithbot :- accept our policies as set out on http://www.freenode.net
+:barjavel.freenode.net 372 iiithbot :- freenode runs an open proxy scanner. Please join #freenode for
+:barjavel.freenode.net 372 iiithbot :- any network-related questions or queries, where a number of
+:barjavel.freenode.net 372 iiithbot :- volunteer staff and helpful users will be happy to assist you.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+:barjavel.freenode.net 372 iiithbot :- together with like-minded FOSS enthusiasts for talks and
+:barjavel.freenode.net 372 iiithbot :- real-life collaboration.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- We would like to thank Private Internet Access
+:barjavel.freenode.net 372 iiithbot :- (https://www.privateinternetaccess.com/) and the other
+:barjavel.freenode.net 372 iiithbot :- organisations that help keep freenode and our other projects
+:barjavel.freenode.net 372 iiithbot :- running for their sustained support.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 372 iiithbot :- In particular we would like to thank the sponsor
+:barjavel.freenode.net 372 iiithbot :- of this server, details of which can be found above.
+:barjavel.freenode.net 372 iiithbot :-  
+:barjavel.freenode.net 376 iiithbot :End of /MOTD command.
+:iiithbot MODE iiithbot :+i
+:iiithbot!~iiithbot@182.64.36.216 JOIN #osdg-iiith
+:barjavel.freenode.net 332 iiithbot #osdg-iiith :Welcome to IIIT-Hyderabad OSDG's IRC. Feel free to ask whatever questions you might have, or use this as a playground to test out IRC things.
+:barjavel.freenode.net 333 iiithbot #osdg-iiith ffledgling!~anhad@107.170.17.95 1423677686
+:barjavel.freenode.net 353 iiithbot = #osdg-iiith :iiithbot chandan5 phoenix_r SprinkleberryMuf @ffledgling nisargjh|cloud @amoghbl1 @ChanServ
+:barjavel.freenode.net 366 iiithbot #osdg-iiith :End of /NAMES list.
+:NickServ!NickServ@services. NOTICE iiithbot :Invalid command. Use /msg NickServ help for a command listing.
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+PING :barjavel.freenode.net
+:phoenix_r!~phoenix@219.64.64.84 QUIT :Ping timeout: 276 seconds
+:sinisalo.freenode.net NOTICE * :*** Looking up your hostname...
+:sinisalo.freenode.net NOTICE * :*** Checking Ident
+:sinisalo.freenode.net NOTICE * :*** No Ident response
+:sinisalo.freenode.net NOTICE * :*** Couldn't look up your hostname
+:sinisalo.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:sinisalo.freenode.net 002 iiithbot :Your host is sinisalo.freenode.net[91.217.189.42/6667], running version ircd-seven-1.1.3
+:sinisalo.freenode.net 003 iiithbot :This server was created Tue Jul 1 2014 at 14:17:05 CEST
+:sinisalo.freenode.net 004 iiithbot sinisalo.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:sinisalo.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:sinisalo.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:sinisalo.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:sinisalo.freenode.net 251 iiithbot :There are 150 users and 80658 invisible on 27 servers
+:sinisalo.freenode.net 252 iiithbot 20 :IRC Operators online
+:sinisalo.freenode.net 253 iiithbot 9 :unknown connection(s)
+:sinisalo.freenode.net 254 iiithbot 59338 :channels formed
+:sinisalo.freenode.net 255 iiithbot :I have 7892 clients and 1 servers
+:sinisalo.freenode.net 265 iiithbot 7892 12000 :Current local users 7892, max 12000
+:sinisalo.freenode.net 266 iiithbot 80808 105669 :Current global users 80808, max 105669
+:sinisalo.freenode.net 250 iiithbot :Highest connection count: 12012 (12000 clients) (4410281 connections received)
+:sinisalo.freenode.net 375 iiithbot :- sinisalo.freenode.net Message of the Day - 
+:sinisalo.freenode.net 372 iiithbot :- Welcome to sinisalo.freenode.net in Stockholm, SE.
+:sinisalo.freenode.net 372 iiithbot :- Thanks to http://www.portlane.com/ for sponsoring
+:sinisalo.freenode.net 372 iiithbot :- this server!
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- SINISALO, (ANNA) JOHANNA (1958-), a Finnish science fiction
+:sinisalo.freenode.net 372 iiithbot :- and fantasy novelist and a script writer. Her novel 'Not
+:sinisalo.freenode.net 372 iiithbot :- Before Sundown' (orig. 'Ennen päivänlaskua ei voi'
+:sinisalo.freenode.net 372 iiithbot :- published in Finnish in 2000, when it also won the biggest
+:sinisalo.freenode.net 372 iiithbot :- literature award of Finland) was awarded The James Tiptree
+:sinisalo.freenode.net 372 iiithbot :- Jr. award in 2004.  She was nominated for a Nebula award in
+:sinisalo.freenode.net 372 iiithbot :- 2009 for her short story Baby Doll.  Their most recent work
+:sinisalo.freenode.net 372 iiithbot :- includes screenwriting for the film 'Iron Sky'.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- Welcome to freenode - supporting the free and open source
+:sinisalo.freenode.net 372 iiithbot :- software communities since 1998.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- By connecting to freenode you indicate that you have read and
+:sinisalo.freenode.net 372 iiithbot :- accept our policies as set out on http://www.freenode.net
+:sinisalo.freenode.net 372 iiithbot :- freenode runs an open proxy scanner. Please join #freenode for
+:sinisalo.freenode.net 372 iiithbot :- any network-related questions or queries, where a number of
+:sinisalo.freenode.net 372 iiithbot :- volunteer staff and helpful users will be happy to assist you.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+:sinisalo.freenode.net 372 iiithbot :- together with like-minded FOSS enthusiasts for talks and
+:sinisalo.freenode.net 372 iiithbot :- real-life collaboration.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- We would like to thank Private Internet Access
+:sinisalo.freenode.net 372 iiithbot :- (https://www.privateinternetaccess.com/) and the other
+:sinisalo.freenode.net 372 iiithbot :- organisations that help keep freenode and our other projects
+:sinisalo.freenode.net 372 iiithbot :- running for their sustained support.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- In particular we would like to thank the sponsor
+:sinisalo.freenode.net 372 iiithbot :- of this server, details of which can be found above.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 376 iiithbot :End of /MOTD command.
+:iiithbot MODE iiithbot :+i
+:iiithbot!~iiithbot@182.64.36.216 JOIN #osdg-iiith
+:sinisalo.freenode.net 332 iiithbot #osdg-iiith :Welcome to IIIT-Hyderabad OSDG's IRC. Feel free to ask whatever questions you might have, or use this as a playground to test out IRC things.
+:sinisalo.freenode.net 333 iiithbot #osdg-iiith ffledgling!~anhad@107.170.17.95 1423677686
+:sinisalo.freenode.net 353 iiithbot = #osdg-iiith :iiithbot chandan5 SprinkleberryMuf @ffledgling nisargjh|cloud @amoghbl1 @ChanServ
+:sinisalo.freenode.net 366 iiithbot #osdg-iiith :End of /NAMES list.
+:NickServ!NickServ@services. NOTICE iiithbot :Invalid command. Use /msg NickServ help for a command listing.
+:sinisalo.freenode.net NOTICE * :*** Looking up your hostname...
+:sinisalo.freenode.net NOTICE * :*** Checking Ident
+:sinisalo.freenode.net NOTICE * :*** Couldn't look up your hostname
+:sinisalo.freenode.net NOTICE * :*** No Ident response
+:sinisalo.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:sinisalo.freenode.net 002 iiithbot :Your host is sinisalo.freenode.net[91.217.189.42/6667], running version ircd-seven-1.1.3
+:sinisalo.freenode.net 003 iiithbot :This server was created Tue Jul 1 2014 at 14:17:05 CEST
+:sinisalo.freenode.net 004 iiithbot sinisalo.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:sinisalo.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:sinisalo.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:sinisalo.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:sinisalo.freenode.net 251 iiithbot :There are 150 users and 80645 invisible on 27 servers
+:sinisalo.freenode.net 252 iiithbot 20 :IRC Operators online
+:sinisalo.freenode.net 253 iiithbot 9 :unknown connection(s)
+:sinisalo.freenode.net 254 iiithbot 59336 :channels formed
+:sinisalo.freenode.net 255 iiithbot :I have 7893 clients and 1 servers
+:sinisalo.freenode.net 265 iiithbot 7893 12000 :Current local users 7893, max 12000
+:sinisalo.freenode.net 266 iiithbot 80795 105669 :Current global users 80795, max 105669
+:sinisalo.freenode.net 250 iiithbot :Highest connection count: 12012 (12000 clients) (4410286 connections received)
+:sinisalo.freenode.net 375 iiithbot :- sinisalo.freenode.net Message of the Day - 
+:sinisalo.freenode.net 372 iiithbot :- Welcome to sinisalo.freenode.net in Stockholm, SE.
+:sinisalo.freenode.net 372 iiithbot :- Thanks to http://www.portlane.com/ for sponsoring
+:sinisalo.freenode.net 372 iiithbot :- this server!
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- SINISALO, (ANNA) JOHANNA (1958-), a Finnish science fiction
+:sinisalo.freenode.net 372 iiithbot :- and fantasy novelist and a script writer. Her novel 'Not
+:sinisalo.freenode.net 372 iiithbot :- Before Sundown' (orig. 'Ennen päivänlaskua ei voi'
+:sinisalo.freenode.net 372 iiithbot :- published in Finnish in 2000, when it also won the biggest
+:sinisalo.freenode.net 372 iiithbot :- literature award of Finland) was awarded The James Tiptree
+:sinisalo.freenode.net 372 iiithbot :- Jr. award in 2004.  She was nominated for a Nebula award in
+:sinisalo.freenode.net 372 iiithbot :- 2009 for her short story Baby Doll.  Their most recent work
+:sinisalo.freenode.net 372 iiithbot :- includes screenwriting for the film 'Iron Sky'.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- Welcome to freenode - supporting the free and open source
+:sinisalo.freenode.net 372 iiithbot :- software communities since 1998.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- By connecting to freenode you indicate that you have read and
+:sinisalo.freenode.net 372 iiithbot :- accept our policies as set out on http://www.freenode.net
+:sinisalo.freenode.net 372 iiithbot :- freenode runs an open proxy scanner. Please join #freenode for
+:sinisalo.freenode.net 372 iiithbot :- any network-related questions or queries, where a number of
+:sinisalo.freenode.net 372 iiithbot :- volunteer staff and helpful users will be happy to assist you.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+:sinisalo.freenode.net 372 iiithbot :- together with like-minded FOSS enthusiasts for talks and
+:sinisalo.freenode.net 372 iiithbot :- real-life collaboration.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- We would like to thank Private Internet Access
+:sinisalo.freenode.net 372 iiithbot :- (https://www.privateinternetaccess.com/) and the other
+:sinisalo.freenode.net 372 iiithbot :- organisations that help keep freenode and our other projects
+:sinisalo.freenode.net 372 iiithbot :- running for their sustained support.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- In particular we would like to thank the sponsor
+:sinisalo.freenode.net 372 iiithbot :- of this server, details of which can be found above.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 376 iiithbot :End of /MOTD command.
+:iiithbot MODE iiithbot :+i
+:iiithbot!~iiithbot@182.64.36.216 JOIN #osdg-iiith
+:sinisalo.freenode.net 332 iiithbot #osdg-iiith :Welcome to IIIT-Hyderabad OSDG's IRC. Feel free to ask whatever questions you might have, or use this as a playground to test out IRC things.
+:sinisalo.freenode.net 333 iiithbot #osdg-iiith ffledgling!~anhad@107.170.17.95 1423677686
+:sinisalo.freenode.net 353 iiithbot = #osdg-iiith :iiithbot chandan5 SprinkleberryMuf @ffledgling nisargjh|cloud @amoghbl1 @ChanServ
+:sinisalo.freenode.net 366 iiithbot #osdg-iiith :End of /NAMES list.
+:NickServ!NickServ@services. NOTICE iiithbot :Invalid command. Use /msg NickServ help for a command listing.
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:chandan5!uid68918@gateway/web/irccloud.com/x-xpiejfvfjogmrjaf QUIT :Quit: Connection closed for inactivity
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:chandan5!uid68918@gateway/web/irccloud.com/x-ykmczufccwfkfght JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.121.185 JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:chandan5!uid68918@gateway/web/irccloud.com/x-ykmczufccwfkfght QUIT :Quit: Connection closed for inactivity
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:pheonix999999!~phoenix@14.99.57.147 JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.121.185 QUIT :Ping timeout: 264 seconds
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:pheonix999999!~phoenix@14.99.57.147 NICK :phoenix_r
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.57.147 PART #osdg-iiith :"Leaving"
+:phoenix_r!~phoenix@14.99.57.147 JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.57.147 QUIT :Quit: Leaving
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.57.147 JOIN #osdg-iiith
+:chandan5!uid68918@gateway/web/irccloud.com/x-kiondovovnpzpsbu JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@14.99.57.147 QUIT :Ping timeout: 265 seconds
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:cool_guy!ineo@nat/iiit/x-cotvbsmmuhcudneo JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+:cool_guy!ineo@nat/iiit/x-cotvbsmmuhcudneo QUIT :Remote host closed the connection
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@219.64.68.78 JOIN #osdg-iiith
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:phoenix_r!~phoenix@219.64.68.78 QUIT :Quit: Leaving
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+PING :sinisalo.freenode.net
+:sinisalo.freenode.net NOTICE * :*** Looking up your hostname...
+:sinisalo.freenode.net NOTICE * :*** Checking Ident
+:sinisalo.freenode.net NOTICE * :*** No Ident response
+:sinisalo.freenode.net NOTICE * :*** Couldn't look up your hostname
+:sinisalo.freenode.net 001 iiithbot :Welcome to the freenode Internet Relay Chat Network iiithbot
+:sinisalo.freenode.net 002 iiithbot :Your host is sinisalo.freenode.net[91.217.189.42/6667], running version ircd-seven-1.1.3
+:sinisalo.freenode.net 003 iiithbot :This server was created Tue Jul 1 2014 at 14:17:05 CEST
+:sinisalo.freenode.net 004 iiithbot sinisalo.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:sinisalo.freenode.net 005 iiithbot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:sinisalo.freenode.net 005 iiithbot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:sinisalo.freenode.net 005 iiithbot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:sinisalo.freenode.net 251 iiithbot :There are 169 users and 94044 invisible on 27 servers
+:sinisalo.freenode.net 252 iiithbot 20 :IRC Operators online
+:sinisalo.freenode.net 253 iiithbot 8 :unknown connection(s)
+:sinisalo.freenode.net 254 iiithbot 60734 :channels formed
+:sinisalo.freenode.net 255 iiithbot :I have 8087 clients and 1 servers
+:sinisalo.freenode.net 265 iiithbot 8087 12000 :Current local users 8087, max 12000
+:sinisalo.freenode.net 266 iiithbot 94213 105669 :Current global users 94213, max 105669
+:sinisalo.freenode.net 250 iiithbot :Highest connection count: 12012 (12000 clients) (4474690 connections received)
+:sinisalo.freenode.net 375 iiithbot :- sinisalo.freenode.net Message of the Day - 
+:sinisalo.freenode.net 372 iiithbot :- Welcome to sinisalo.freenode.net in Stockholm, SE.
+:sinisalo.freenode.net 372 iiithbot :- Thanks to http://www.portlane.com/ for sponsoring
+:sinisalo.freenode.net 372 iiithbot :- this server!
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- SINISALO, (ANNA) JOHANNA (1958-), a Finnish science fiction
+:sinisalo.freenode.net 372 iiithbot :- and fantasy novelist and a script writer. Her novel 'Not
+:sinisalo.freenode.net 372 iiithbot :- Before Sundown' (orig. 'Ennen päivänlaskua ei voi'
+:sinisalo.freenode.net 372 iiithbot :- published in Finnish in 2000, when it also won the biggest
+:sinisalo.freenode.net 372 iiithbot :- literature award of Finland) was awarded The James Tiptree
+:sinisalo.freenode.net 372 iiithbot :- Jr. award in 2004.  She was nominated for a Nebula award in
+:sinisalo.freenode.net 372 iiithbot :- 2009 for her short story Baby Doll.  Their most recent work
+:sinisalo.freenode.net 372 iiithbot :- includes screenwriting for the film 'Iron Sky'.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- Welcome to freenode - supporting the free and open source
+:sinisalo.freenode.net 372 iiithbot :- software communities since 1998.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- By connecting to freenode you indicate that you have read and
+:sinisalo.freenode.net 372 iiithbot :- accept our policies as set out on http://www.freenode.net
+:sinisalo.freenode.net 372 iiithbot :- freenode runs an open proxy scanner. Please join #freenode for
+:sinisalo.freenode.net 372 iiithbot :- any network-related questions or queries, where a number of
+:sinisalo.freenode.net 372 iiithbot :- volunteer staff and helpful users will be happy to assist you.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+:sinisalo.freenode.net 372 iiithbot :- together with like-minded FOSS enthusiasts for talks and
+:sinisalo.freenode.net 372 iiithbot :- real-life collaboration.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- We would like to thank Private Internet Access
+:sinisalo.freenode.net 372 iiithbot :- (https://www.privateinternetaccess.com/) and the other
+:sinisalo.freenode.net 372 iiithbot :- organisations that help keep freenode and our other projects
+:sinisalo.freenode.net 372 iiithbot :- running for their sustained support.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 372 iiithbot :- In particular we would like to thank the sponsor
+:sinisalo.freenode.net 372 iiithbot :- of this server, details of which can be found above.
+:sinisalo.freenode.net 372 iiithbot :-  
+:sinisalo.freenode.net 376 iiithbot :End of /MOTD command.
+:iiithbot MODE iiithbot :+i
+:iiithbot!~iiithbot@182.64.36.216 JOIN #osdg-iiith
+:sinisalo.freenode.net 332 iiithbot #osdg-iiith :Welcome to IIIT-Hyderabad OSDG's IRC. Feel free to ask whatever questions you might have, or use this as a playground to test out IRC things.
+:sinisalo.freenode.net 333 iiithbot #osdg-iiith ffledgling!~anhad@107.170.17.95 1423677686
+:sinisalo.freenode.net 353 iiithbot = #osdg-iiith :iiithbot phoenix_r SprinkleberryMuf akshay1994 nisargjh|cloud @ffledgling @amoghbl1 @ChanServ
+:sinisalo.freenode.net 366 iiithbot #osdg-iiith :End of /NAMES list.
+:NickServ!NickServ@services. NOTICE iiithbot :Invalid command. Use /msg NickServ help for a command listing.
+PING :sinisalo.freenode.net
